@@ -1,0 +1,114 @@
+TABLE OF CONTENTS (HIDE)
+1.  Getting Started Exercises
+1.1  HelloWorld
+1.2  CheckPassFail (if-else)
+1.3  CheckOddEven (if-else)
+
+1.4  PrintNumberInWord (nested-if, switch-case)
+1.5  PrintDayInWord (nested-if, switch-case)
+2.  Exercises on Number Systems (for Science/Engineering Students)
+3.  Writing Good Programs
+4.  Exercises on Decision and Loop
+4.1  SumAverageRunningInt (Decision & Loop)
+4.2  Product1ToN (or Factorial) (Decision & Loop)
+4.3  HarmonicSum (Decision & Loop)
+4.4  ComputePI (Decision & Loop)
+4.5  CozaLozaWoza (Decision & Loop)
+4.6  Fibonacci (Decision & Loop)
+4.7  ExtractDigits (Decision & Loop)
+5.  Exercises on Input, Decision and Loop
+5.1  Add2Integer (Input)
+5.2  SumProductMinMax3 (Arithmetic & Min/Max)
+5.3  CircleComputation (double & printf())
+5.4  Swap2Integers
+5.5  IncomeTaxCalculator (Decision)
+5.6  IncomeTaxCalculatorWithSentinel (Decision & Loop)
+5.7  PensionContributionCalculator (Decision)
+5.8  PensionContributionCalculatorWithSentinel (Decision & Loop)
+5.9  SalesTaxCalculator (Decision & Loop)
+5.10  ReverseInt (Loop with Modulus/Divide)
+5.11  SumOfDigitsInt (Loop with Modulus/Divide)
+5.12  InputValidation (Loop with boolean flag)
+5.13  AverageWithInputValidation (Loop with boolean flag)
+6.  Exercises on Nested-Loops
+6.1  SquarePattern (nested-loop)
+6.2  CheckerPattern (nested-loop)
+6.3  TimeTable (nested-loop)
+6.4  TriangularPattern (nested-loop)
+6.5  BoxPattern (nested-loop)
+6.6  HillPattern (nested-loop)
+6.7  NumberPattern (nested-loop)
+7.  Debugging/Tracing Programs using a Graphic Debugger
+7.1  Factorial (Using a graphic debugger)
+8.  Exercises on String and char Operations
+8.1  ReverseString (String & char)
+8.2  CountVowelsDigits (String & char)
+8.3  PhoneKeyPad (String & char)
+8.4  Caesar's Code (String & char)
+8.5  Decipher Caesar's Code (String & char)
+8.6  Exchange Cipher (String & char)
+8.7  TestPalindromicWord and TestPalindromicPhrase (String & char)
+8.8  CheckBinStr (String & char)
+8.9  CheckHexStr (String & char)
+8.10  Bin2Dec (String & char)
+8.11  Hex2Dec (String & char)
+8.12  Oct2Dec (String & char)
+8.13  RadixN2Dec (String & char)
+9.  Exercises on Array
+9.1  PrintArray (Array)
+9.2  PrintArrayInStars (Array)
+9.3  GradesStatistics (Array)
+9.4  Hex2Bin (Array for Table Lookup)
+9.5  Dec2Hex (Array for Table Lookup)
+10.  Exercises on Method
+10.1  exponent() (method)
+10.2  isOdd() (method)
+10.3  hasEight() (method)
+10.4  print() (Array & Method)
+10.5  arrayToString() (Array & Method)
+10.6  contains() (Array & Method)
+10.7  search() (Array & Method)
+10.8  equals() (Array & Method)
+10.9  copyOf() (Array & Method)
+10.10  swap() (Array & Method)
+10.11  reverse() (Array & Method)
+10.12  GradesStatistics (Array & Method)
+10.13  GradesHistogram (Array & Method)
+11.  Exercises on Command-line Arguments
+11.1  Arithmetic (Command-Line Arguments)
+12.  More (Difficult) Exercises
+12.1  JDK Source Code
+12.2  Matrices (2D Arrays)
+12.3  PrintAnimalPattern (Special Characters and Escape Sequences)
+12.4  Print Patterns (nested-loop)
+12.5  Print Triangles (nested-loop)
+12.6  Trigonometric Series
+12.7  Exponential Series
+12.8  Special Series
+12.9  FactorialInt (Handling Overflow)
+12.10  FibonacciInt (Handling Overflow)
+12.11  Number System Conversion
+12.12  NumberGuess
+12.13  WordGuess
+12.14  DateUtil
+13.  Exercises on Recursion
+13.1  Factorial Recusive
+13.2  Fibonacci (Recursive)
+13.3  Length of a Running Number Sequence (Recursive)
+13.4  GCD (Recursive)
+13.5  Tower of Hanoi (Recursive)
+14.  Exercises on Algorithms - Sorting and Searching
+14.1  Linear Search
+14.2  Recursive Binary Search
+14.3  Bubble Sort
+14.4  Selection Sort
+14.5  Insertion Sort
+14.6  Recursive Quick Sort
+14.7  Merge Sort
+14.8  Heap Sort
+15.  Exercises on Algorithms - Number Theory
+15.1  Perfect and Deficient Numbers
+15.2  Prime Numbers
+15.3  Prime Factors
+15.4  Greatest Common Divisor (GCD)
+16.  Final Notes
